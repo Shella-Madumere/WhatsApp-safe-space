@@ -50,6 +50,39 @@ WhatsApp Safe Space reimagines the '+' button to create a **curated communicatio
 - Minimal performance impact
 - Cross-platform compatibility (iOS/Android)
 
+## User Experience Flow
+
+### Safe Space Creation Journey
+User Opens WhatsApp 
+
+   ↓
+
+Notices '+' Button
+
+   ↓
+
+Selects Contacts
+
+  ↓
+
+Safe Space Created
+
+   ↓
+
+Visual Transformation
+
+↓
+
+Daily Peaceful Use
+
+### Detailed Interaction Flow
+1. **Awareness** - User feels an overwhelming chat overload and notices enhanced '+' button
+2. **Initiation** - Taps '+' button next to Favorites section  
+3. **Selection** - Chooses important contacts from curated list
+4. **Creation** - creates it persoanlize Safe Space instantly with visual prefered distinctions
+5. **Customization** - Applies preferred theme (optional)
+6. **Adoption** - Uses daily for focused conversations
+
 ## Next Steps
 - User testing and feedback collection
 - Technical feasibility review  
